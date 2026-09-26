@@ -24,6 +24,24 @@ The examples are organized by week and focus on implementing and applying fundam
 - Shortest path for a knight on an 8x8 chessboard
 - A custom doubly linked list with insertion, deletion, and traversal operations
 
+### Week 3: Binary Search and Search on Sorted Arrays
+
+- Linear search and its complexity baseline
+- Exact binary search on sorted arrays
+- Codeforces-style query checking with sorted data
+- Neighborhood search: nearest smaller and greater elements
+- STL search tools: `lower_bound`, `upper_bound`, and `binary_search`
+- Answer-search tasks for integer and real-valued problems
+- Edge cases: overflow, infinite loops, and invalid assumptions
+
+### Week 4: Binary Search Trees and Ordered Containers
+
+- BST insertion, deletion, traversals, height, and counting
+- Range queries on binary search trees
+- Ordered container usage with `std::set` and `std::multiset`
+- Lower/upper bound operations on sorted data
+- Comparison between custom tree structures and STL containers
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
@@ -61,7 +79,9 @@ The exercises demonstrate:
 - recursive and iterative algorithm design;
 - STL containers and their basic operations;
 - pointer manipulation and dynamic memory management;
-- graph traversal and shortest-path reconstruction.
+- graph traversal and shortest-path reconstruction;
+- efficient searching on sorted data;
+- tree-based data structures and ordered sets.
 
 ## License
 
