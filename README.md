@@ -42,6 +42,13 @@ The examples are organized by week and focus on implementing and applying fundam
 - Lower/upper bound operations on sorted data
 - Comparison between custom tree structures and STL containers
 
+### Week 5: Heaps and Priority Queues
+
+- Min-heap insertion and repeated minimum extraction
+- Finding the `k` largest values with a min-priority queue
+- Bottom-up construction of a min-heap
+- Custom max-heap operations and array-based heap representation
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
