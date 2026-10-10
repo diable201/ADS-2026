@@ -49,6 +49,14 @@ The examples are organized by week and focus on implementing and applying fundam
 - Bottom-up construction of a min-heap
 - Custom max-heap operations and array-based heap representation
 
+### Week 6: Sorting Algorithms
+
+- Bubble sort with an early-stop optimization
+- Quicksort with two-pointer partitioning
+- Quicksort with the Lomuto partition scheme
+- Heapsort using a max-heap
+- Sorting with the standard library's `std::sort`
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
