@@ -57,6 +57,12 @@ The examples are organized by week and focus on implementing and applying fundam
 - Heapsort using a max-heap
 - Sorting with the standard library's `std::sort`
 
+### Week 7: Merge Sort and Inversions
+
+- Merge sort with recursive divide-and-conquer merging
+- Counting array inversions in `O(n log n)` time
+- Using merge sort to count cross-half inversions efficiently
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
