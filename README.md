@@ -63,6 +63,13 @@ The examples are organized by week and focus on implementing and applying fundam
 - Counting array inversions in `O(n log n)` time
 - Using merge sort to count cross-half inversions efficiently
 
+### Week 8: Rabin–Karp and String Hashing
+
+- Polynomial hashing for strings
+- Grouping and comparing equal strings by hash
+- Rabin–Karp substring search with prefix hashes
+- Counting distinct substrings with normalized hashes
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
