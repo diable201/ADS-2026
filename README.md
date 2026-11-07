@@ -70,6 +70,13 @@ The examples are organized by week and focus on implementing and applying fundam
 - Rabin–Karp substring search with prefix hashes
 - Counting distinct substrings with normalized hashes
 
+### Week 9: Prefix Function and KMP
+
+- Naive and linear-time prefix-function computation
+- Knuth–Morris–Pratt pattern matching
+- Finding borders and periods of strings
+- Checking cyclic shifts using string matching
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
