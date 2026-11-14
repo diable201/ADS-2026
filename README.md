@@ -77,6 +77,14 @@ The examples are organized by week and focus on implementing and applying fundam
 - Finding borders and periods of strings
 - Checking cyclic shifts using string matching
 
+### Week 10: Graph Representations and BFS
+
+- Adjacency matrices and adjacency lists
+- Weighted graph representations
+- Breadth-first search and shortest distances
+- Shortest-path reconstruction
+- Connected components and bipartite graph checking
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
