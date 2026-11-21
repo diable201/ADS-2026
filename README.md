@@ -85,6 +85,15 @@ The examples are organized by week and focus on implementing and applying fundam
 - Shortest-path reconstruction
 - Connected components and bipartite graph checking
 
+### Week 11: Depth-First Search
+
+- Depth-first graph traversal
+- Grid components and connected components
+- Cycle detection in directed and undirected graphs
+- Topological sorting
+- DFS path reconstruction
+- Strongly connected components and bridge finding
+
 ## Requirements
 
 - A C++ compiler with C++11 support or newer
